@@ -30,3 +30,5 @@ RES : https://microsoft.github.io/react-native-windows/docs/rnw-dependencies
 ```
 npx react-native run-windows
 ```
+
+![](/Images/img.png)
